@@ -80,7 +80,7 @@ INSERT INTO usuarios (usuario_nome, usuario_idade, plano_id, data_assinatura) VA
 INSERT INTO usuarios (usuario_nome, usuario_idade, plano_id, data_assinatura) VALUES ('Sandi Metz', '58', '2', '2018-04-29');
 INSERT INTO usuarios (usuario_nome, usuario_idade, plano_id, data_assinatura) VALUES ('Paulo Freire', '19', '3', '2018-02-14');
 INSERT INTO usuarios (usuario_nome, usuario_idade, plano_id, data_assinatura) VALUES ('Bell Hooks', '26', '3', '2018-01-05');
-INSERT INTO usuarios (usuario_nome, usuario_idade, plano_id, data_assinatura) VALUES ('Christopher Alexander', '85', '3', '2019-06-05');
+INSERT INTO usuarios (usuario_nome, usuario_idade, plano_id, data_assinatura) VALUES ('Christopher Alexander', '85', '4', '2019-06-05');
 INSERT INTO usuarios (usuario_nome, usuario_idade, plano_id, data_assinatura) VALUES ('Judith Butler', '45', '4', '2020-05-13');
 INSERT INTO usuarios (usuario_nome, usuario_idade, plano_id, data_assinatura) VALUES ( 'Jorge Amado', '58', '4', '2017-02-17');
 
