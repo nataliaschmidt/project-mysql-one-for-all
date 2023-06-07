@@ -6,4 +6,4 @@ SELECT
 FROM
     usuarios u
         INNER JOIN
-    planos p ON p.plano_id = u.plano_id;
+    planos p ON u.plano_id = p.plano_id;
