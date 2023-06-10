@@ -8,13 +8,11 @@ A estrutura do projeto foi fornecida pela Trybe e os requisitos foram implementa
 Utilizei o Workbench como ferramenta visual para auxiliar na criação e execução das queries.
 
 ## Tecnologias Utilizadas
-<hr>
 
 - SQL
 - Docker
 
 ## Instruções
-<hr>
 
 - Clone este repositório para o seu ambiente de desenvolvimento local.
 
